@@ -1,0 +1,7 @@
+remera hombre
+pantalon hombre
+mameluco
+campera
+camisa
+pantalon mujer
+camisa mujer

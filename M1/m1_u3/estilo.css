@@ -1,0 +1,12 @@
+p{color:blueviolet; font-family: Arial, Helvetica, sans-serif;font-size: 25;font-weight: bold;}
+h2{color: blue;background-color: beige;text-align: center;}
+h1{color: #508bff; font-style: italic;text-align: center;}
+h3{font-style: inherit; text-align: center;}
+.cajaazul{width: 300px; height: 500px;background-color: #509eff;border-radius: 72px 72px 72px 141px;
+    -webkit-border-radius: 72px 72px 72px 141px;
+    -moz-border-radius: 72px 72px 72px 141px;}
+#cajaroja{width: 300px; height: 700px;background-color: #c0698d;border-radius: 72px 72px 72px 141px;
+        -webkit-border-radius: 72px 72px 72px 141px;
+        -moz-border-radius: 72px 72px 72px 141px;}
+body {border: 20px inset #508bff}
+.destacado{color: red;font-style: italic;font-size: 30;}
